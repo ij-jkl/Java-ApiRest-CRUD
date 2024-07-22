@@ -7,7 +7,7 @@ Este proyecto es una API REST usando Java Spring Boot. Las herramientas utilizad
 
 -**Docker** para obtener la instancia de la BDD postgres.
 
--**pgAdmin4** para querys en la BDD.
+-**pgAdmin4** para queries en la BDD.
 
 -**Hibernate** para el Mapeo de los Objetos.
 
